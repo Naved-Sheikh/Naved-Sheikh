@@ -2,11 +2,11 @@
 **A passionate Java Developer**
 
 Email Me 👉 ✉️ ** navedsheikh7983@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
-- 🌱 **I’m currently learning:** java backend development 
+- 🌱 **I’m currently learning:** Java Backend Development 
 - 👯 **I’m looking to collaborate on:** Projects with other Dev
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** navedsheikh7983@gmail.com
-- 😄 **Pronouns:** MOHD NAVED
+- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
