@@ -32,12 +32,6 @@ Email Me 👉 ✉️ ** navedsheikh7983@gmail.com ** For Collaboration/Project o
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Naved-Sheikh&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
-
-
-
-
-
-how about this
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Naved-Sheikh&style=flat-square&color=blue&label=Profile+Views" alt="Naved's Profile Views" />
+</div>
